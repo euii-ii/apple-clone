@@ -33,7 +33,7 @@ Copy
 
 Edit
 
-git clone 
+git clone https://github.com/euii-ii/apple-clone.git
 
 Navigate to the project folder:
 
