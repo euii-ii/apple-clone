@@ -59,7 +59,6 @@ apple-clone/
 │   └── [image files] # Image assets used
 └── README.md         # Project documentation
 
-
 Improvements and Future Features
 
 Add JavaScript for animations and interactivity.
